@@ -9,4 +9,4 @@ Shangyu Lou
 **My Definition of Big Data:**  
 Big data is a representation of the world, and massive data can maximize the approximation to the real world. 
 
-![My Photo](https://github.com/slou4820/Movie/blob/main/IMG_6426.JPG)  
+![My Photo](https://github.com/slou4820/Test/blob/main/IMG_6426.JPG)  
