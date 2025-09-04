@@ -22,7 +22,7 @@ The cloth dataset includes labeled categories such as clothing type and whether 
 
 **Institute:** the Schumacher Center for a New Economics 
 
-**URL:** [: https://www.aspeninstitute.org/publications/promise-peril-big-data/](: https://www.aspeninstitute.org/publications/promise-peril-big-data/)  
+**URL:** [ https://www.aspeninstitute.org/publications/promise-peril-big-data/]( https://www.aspeninstitute.org/publications/promise-peril-big-data/)  
 
 **Introduction:**
 
