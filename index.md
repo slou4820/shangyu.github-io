@@ -1,4 +1,4 @@
-This site is for **GEOG 594 - Web 01**.  
+**GEOG 594 - Web 01**.  
 
 ---
 
