@@ -10,7 +10,7 @@
 
 **Applications:**
 
-The cloth dataset includes labeled categories such as clothing type and whether the item belongs to kids or adults. It can be used to train AI models for clothing classification, enabling automatic recognition of clothing types from images, distinguishing between kids’ and adults’ categories, and helping organize large product catalogs on e-commerce platforms. In addition, the dataset supports recommendation systems by suggesting clothing within the same category, such as similar kids’ T-shirts, or by recommending complementary items based on type and age group. Finally, it provides value for computer vision benchmarking, as it can be applied in research on fine-grained image classification, domain adaptation between kids and adults, and multi-label classification tasks.  
+The clothing dataset includes labeled categories (clothing type and whether it belongs to kids). It can be used for training AI models for clothing classification, and it helps with the automatic recognition of clothing types from images. In addition, it is useful when applied in research as a benchmark for fine-grained image classification task models. Moreover, it can be applied in recommendation systems by suggesting clothes in the same category, It is useful in some online shopping platforms.
 
 ---
 
