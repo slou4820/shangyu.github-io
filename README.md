@@ -1,8 +1,12 @@
-# GEOG 594 - Web Exercise 1
+# GEOG 594 - Web 01
 
-**Name:** Shangyu Lou  
-**Course Link:** [Canvas GEOG 594](https://canvas.sdsu.edu)  
+**Name:** 
+Shangyu Lou  
+
+**Course Link:** 
+[GEOG 594](https://sdsu.instructure.com/courses/186022) 
+
 **My Definition of Big Data:**  
-Big Data refers to massive, complex datasets that require advanced methods for storage, analysis, and interpretation. It emphasizes the 4Vs: Volume, Velocity, Variety, and Veracity.  
+Big data is a representation of the world, and massive data can maximize the approximation to the real world. 
 
-![My Photo](photo.jpg)  <!-- Optional -->
+![My Photo](https://github.com/slou4820/Movie/blob/main/IMG_6426.JPG)  
